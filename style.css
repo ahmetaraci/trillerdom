@@ -1,0 +1,12 @@
+#map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* Gerekirse, diğer öğelerin üzerine çıkmasını sağlamak için z-index kullanabilirsiniz */
+}
+
+body {
+  overflow: hidden;
+}
