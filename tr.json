@@ -100,8 +100,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ardahan",
-        "3˚ DOM": "42",
-        "6˚ DOM": "45"
+        "dom_3_derece": "42",
+        "dom_6_derece": "45"
       },
       "id": 1
     },
@@ -217,8 +217,8 @@
       "type": "Feature",
       "properties": {
         "name": "Artvin",
-        "3˚ DOM": "42",
-        "6˚ DOM": "39"
+        "dom_3_derece": "42",
+        "dom_6_derece": "39"
       },
       "id": 2
     },
@@ -328,9 +328,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "42",
-        "6˚ DOM": "45",
-        "name": "ŞIRNAK"
+        "dom_3_derece": "42",
+        "dom_6_derece": "45",
+        "name": "Sirnak"
       },
       "id": 3
     },
@@ -495,9 +495,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "45",
-        "6˚ DOM": "45",
-        "name": "HAKKARİ"
+        "dom_3_derece": "45",
+        "dom_6_derece": "45",
+        "name": "Hakkari"
       },
       "id": 4
     },
@@ -596,9 +596,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "45",
-        "6˚ DOM": "45",
-        "name": "IĞDIR"
+        "dom_3_derece": "45",
+        "dom_6_derece": "45",
+        "name": "Igdir"
       },
       "id": 5
     },
@@ -739,9 +739,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "42",
-        "6˚ DOM": "45",
-        "name": "AĞRI"
+        "dom_3_derece": "42",
+        "dom_6_derece": "45",
+        "name": "Agri"
       },
       "id": 6
     },
@@ -937,9 +937,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "42",
-        "6˚ DOM": "45",
-        "name": "VAN"
+        "dom_3_derece": "42",
+        "dom_6_derece": "45",
+        "name": "Van"
       },
       "id": 7
     },
@@ -1095,9 +1095,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "27",
-        "6˚ DOM": "27",
-        "name": "KIRKLARELİ"
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
+        "name": "Kırklareli"
       },
       "id": 8
     },
@@ -1297,9 +1297,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "27",
-        "6˚ DOM": "27",
-        "name": "EDİRNE"
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
+        "name": "Edirne"
       },
       "id": 9
     },
@@ -1414,9 +1414,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "42",
-        "6˚ DOM": "45",
-        "name": "KARS"
+        "dom_3_derece": "42",
+        "dom_6_derece": "45",
+        "name": "Kars"
       },
       "id": 10
     },
@@ -1484,9 +1484,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "42",
-        "6˚ DOM": "39",
-        "name": "MARDİN"
+        "dom_3_derece": "42",
+        "dom_6_derece": "39",
+        "name": "Mardin"
       },
       "id": 11
     },
@@ -1697,9 +1697,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
-        "name": "ŞANLIURFA"
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
+        "name": "Sanliurfa"
       },
       "id": 12
     },
@@ -1754,8 +1754,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Kilis"
       },
       "id": 13
@@ -1882,8 +1882,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Gaziantep"
       },
       "id": 14
@@ -2066,8 +2066,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Hatay"
       },
       "id": 15
@@ -2244,8 +2244,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Istanbul"
       },
       "id": 16
@@ -2332,8 +2332,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Tekirdag"
       },
       "id": 17
@@ -2657,8 +2657,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Çanakkale"
       },
       "id": 18
@@ -2737,8 +2737,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "42",
+        "dom_6_derece": "39",
         "name": "Rize"
       },
       "id": 19
@@ -2839,8 +2839,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Trabzon"
       },
       "id": 20
@@ -2955,8 +2955,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Giresun"
       },
       "id": 21
@@ -3069,8 +3069,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Ordu"
       },
       "id": 22
@@ -3258,8 +3258,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Samsun"
       },
       "id": 23
@@ -3416,8 +3416,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Sinop"
       },
       "id": 24
@@ -3527,8 +3527,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Kastamonu"
       },
       "id": 25
@@ -3593,8 +3593,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Bartın"
       },
       "id": 26
@@ -3650,9 +3650,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
-        "name": "Zinguldak"
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
+        "name": "Zonguldak"
       },
       "id": 27
     },
@@ -3711,8 +3711,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Düzce"
       },
       "id": 28
@@ -3798,8 +3798,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Sakarya"
       },
       "id": 29
@@ -3948,8 +3948,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Kocaeli"
       },
       "id": 30
@@ -3993,8 +3993,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Yalova"
       },
       "id": 31
@@ -4143,8 +4143,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Bursa"
       },
       "id": 32
@@ -4456,8 +4456,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Balikesir"
       },
       "id": 33
@@ -4908,8 +4908,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Izmir"
       },
       "id": 34
@@ -5060,8 +5060,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Aydin"
       },
       "id": 35
@@ -5819,8 +5819,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Mugla"
       },
       "id": 36
@@ -6134,8 +6134,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Antalya"
       },
       "id": 37
@@ -6362,8 +6362,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Mersin"
       },
       "id": 38
@@ -6547,8 +6547,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Adana"
       },
       "id": 39
@@ -6642,8 +6642,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Bolu"
       },
       "id": 40
@@ -6842,8 +6842,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Ankara"
       },
       "id": 41
@@ -6921,8 +6921,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Bilecik"
       },
       "id": 42
@@ -7050,8 +7050,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Eskisehir"
       },
       "id": 43
@@ -7141,9 +7141,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
-        "name": "Çankiri"
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
+        "name": "Cankiri"
       },
       "id": 44
     },
@@ -7201,8 +7201,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Karabük"
       },
       "id": 45
@@ -7316,8 +7316,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Tokat"
       },
       "id": 46
@@ -7496,8 +7496,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Sivas"
       },
       "id": 47
@@ -7622,8 +7622,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Çorum"
       },
       "id": 48
@@ -7726,8 +7726,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Amasya"
       },
       "id": 49
@@ -7832,8 +7832,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Kütahya"
       },
       "id": 50
@@ -8036,8 +8036,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Konya"
       },
       "id": 51
@@ -8142,8 +8142,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Karaman"
       },
       "id": 52
@@ -8215,8 +8215,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Nigde"
       },
       "id": 53
@@ -8313,8 +8313,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Kayseri"
       },
       "id": 54
@@ -8410,8 +8410,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Isparta"
       },
       "id": 55
@@ -8544,8 +8544,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "27",
+        "dom_6_derece": "27",
         "name": "Manisa"
       },
       "id": 56
@@ -8683,8 +8683,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Denizli"
       },
       "id": 57
@@ -8774,8 +8774,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Burdur"
       },
       "id": 58
@@ -8851,8 +8851,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Aksaray"
       },
       "id": 59
@@ -8940,8 +8940,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Nevsehir"
       },
       "id": 60
@@ -9051,8 +9051,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "33",
         "name": "Yozgat"
       },
       "id": 61
@@ -9129,8 +9129,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
         "name": "Kirsehir"
       },
       "id": 62
@@ -9210,8 +9210,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "27",
         "name": "Usak"
       },
       "id": 63
@@ -9369,8 +9369,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Erzincan"
       },
       "id": 64
@@ -9495,8 +9495,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Tunceli"
       },
       "id": 65
@@ -9615,8 +9615,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "30",
+        "dom_6_derece": "33",
         "name": "Afyonkarahisar"
       },
       "id": 66
@@ -9670,9 +9670,9 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
-        "name": "Kinkkale"
+        "dom_3_derece": "33",
+        "dom_6_derece": "33",
+        "name": "Kirikkale"
       },
       "id": 67
     },
@@ -9774,8 +9774,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "K. Maras"
       },
       "id": 68
@@ -9873,8 +9873,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "42",
+        "dom_6_derece": "39",
         "name": "Mus"
       },
       "id": 69
@@ -10035,8 +10035,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "43",
+        "dom_6_derece": "39",
         "name": "Erzurum"
       },
       "id": 70
@@ -10200,8 +10200,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Malatya"
       },
       "id": 71
@@ -10358,8 +10358,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Elazig"
       },
       "id": 72
@@ -10449,8 +10449,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "42",
+        "dom_6_derece": "45",
         "name": "Bitlis"
       },
       "id": 73
@@ -10551,8 +10551,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Bingöl"
       },
       "id": 74
@@ -10620,8 +10620,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "36",
+        "dom_6_derece": "39",
         "name": "Osmaniye"
       },
       "id": 75
@@ -10773,8 +10773,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Adiyaman"
       },
       "id": 76
@@ -10896,8 +10896,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Diyarbakir"
       },
       "id": 77
@@ -10959,8 +10959,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "42",
+        "dom_6_derece": "39",
         "name": "Batman"
       },
       "id": 78
@@ -11027,8 +11027,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "42",
+        "dom_6_derece": "39",
         "name": "Siirt"
       },
       "id": 79
@@ -11089,8 +11089,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Bayburt"
       },
       "id": 80
@@ -11177,8 +11177,8 @@
       },
       "type": "Feature",
       "properties": {
-        "3˚ DOM": "36",
-        "6˚ DOM": "33",
+        "dom_3_derece": "39",
+        "dom_6_derece": "39",
         "name": "Gümüshane"
       },
       "id": 81

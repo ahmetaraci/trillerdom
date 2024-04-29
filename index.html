@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TRCoordinateWizard</title>
+    <title>DOM Hesaplama</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     <style>
@@ -117,7 +117,7 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script>
-        var map = L.map("map").setView([39.925533, 32.866287], 6);
+        var map = L.map("map").setView([39.925533, 35.0000], 7);
 
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 19,
@@ -131,8 +131,9 @@
                 L.geoJSON(data, {
                     onEachFeature: function (feature, layer) {
                         if (feature.properties) {
-                            var popupContent = "<p><b>Bilgi 1:</b> " + feature.properties.id + "</p>" +
-                                "<p><b>Bilgi 2:</b> " + feature.properties.name + "</p>";
+                            var popupContent = "<p><b>Şehir:</b> " + feature.properties.name + "</p>" +
+                                "<p><b>3˚ DOM:</b> " + feature.properties.dom_3_derece + "</p>" +
+                                "<p><b>6˚ DOM:</b> " + feature.properties.dom_6_derece + "</p>";
                             layer.bindPopup(popupContent);
                         }
                     }
@@ -142,3 +143,5 @@
 </body>
 
 </html>
+
+https://jeodezidersnotu.blogspot.com/2014/06/illerin-dilim-orta-meridyenleri.html
