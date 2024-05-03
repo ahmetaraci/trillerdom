@@ -7,91 +7,6 @@
     <title>Türkiye İller Dilim Orta Meridyenleri</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-    <style>
-        #map {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 0;
-        }
-
-        body {
-            overflow: hidden;
-        }
-
-        .custom-div {
-            position: fixed;
-            top: 10px;
-            /* Sağ üst köşeden 10 piksel mesafede */
-            right: 10px;
-            /* Sağ üst köşede */
-            width: 200px;
-            /* Genişlik ayarı */
-            height: auto;
-            /* Yükseklik ayarı */
-            background-color: rgba(255, 255, 255, 0.8);
-            /* Transparan beyaz arkaplan */
-            border-radius: 10px;
-            /* Kenar yumuşatma */
-            z-index: 1;
-            padding: 15px;
-            text-align: center;
-        }
-
-        .profile-image {
-            width: 100px;
-            /* Fotoğraf genişliği */
-            height: 100px;
-            /* Fotoğraf yüksekliği */
-            border-radius: 50%;
-            /* Yuvarlak fotoğraf yapmak için */
-            margin: 10px auto;
-            /* Dikey hizalama */
-            display: block;
-            /* Inline elementleri dikey hizalamak için */
-        }
-
-        .social-icons img {
-            width: 30px;
-            /* Sosyal medya iconları boyutu */
-            margin: 0 5px;
-            /* Boşluk ayarı */
-        }
-
-        .top-bar {
-            position: fixed;
-            top: 50px;
-            /* Ekranın en üstünden 50 piksel aşağıda */
-            left: 50%;
-            /* Ekranın ortasına hizala */
-            transform: translateX(-50%);
-            /* Yatayda ortala */
-            width: 500px;
-            /* Genişlik ayarı */
-            min-width: 500px;
-            /* En az 500 piksel genişlik */
-            max-width: 100%;
-            /* Ekran boyutuna göre genişlik */
-            height: 50px;
-            /* Yükseklik ayarı */
-            background-color: rgba(255, 255, 255, 0.8);
-            /* Transparan beyaz arkaplan */
-            border-radius: 10px;
-            /* Kenar yumuşatma */
-            z-index: 1;
-            padding: 15px;
-            text-align: center;
-            line-height: 50px;
-            /* Metin dikey hizalaması */
-        }
-
-        .top-bar-text {
-            font-weight: bold;
-            /* Kalın metin */
-        }
-    </style>
 </head>
 
 <body>
@@ -116,30 +31,6 @@
     <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    <script>
-        var map = L.map("map").setView([39.525533, 35.500000], 7);
-
-        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-            maxZoom: 19,
-            attribution:
-                '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        }).addTo(map);
-
-        fetch("tr.json")
-            .then((response) => response.json())
-            .then((data) => {
-                L.geoJSON(data, {
-                    onEachFeature: function (feature, layer) {
-                        if (feature.properties) {
-                            var popupContent = "<p><b>Şehir:</b> " + feature.properties.name + "</p>" +
-                                "<p><b>3˚ DOM:</b> " + feature.properties.dom_3_derece + "</p>" +
-                                "<p><b>6˚ DOM:</b> " + feature.properties.dom_6_derece + "</p>";
-                            layer.bindPopup(popupContent);
-                        }
-                    }
-                }).addTo(map);
-            });
-    </script>
 </body>
 
 </html>

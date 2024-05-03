@@ -10,3 +10,87 @@
 body {
   overflow: hidden;
 }
+
+#map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+.custom-div {
+  position: fixed;
+  top: 10px;
+  /* Sağ üst köşeden 10 piksel mesafede */
+  right: 10px;
+  /* Sağ üst köşede */
+  width: 200px;
+  /* Genişlik ayarı */
+  height: auto;
+  /* Yükseklik ayarı */
+  background-color: rgba(255, 255, 255, 0.8);
+  /* Transparan beyaz arkaplan */
+  border-radius: 10px;
+  /* Kenar yumuşatma */
+  z-index: 1;
+  padding: 15px;
+  text-align: center;
+}
+
+.profile-image {
+  width: 100px;
+  /* Fotoğraf genişliği */
+  height: 100px;
+  /* Fotoğraf yüksekliği */
+  border-radius: 50%;
+  /* Yuvarlak fotoğraf yapmak için */
+  margin: 10px auto;
+  /* Dikey hizalama */
+  display: block;
+  /* Inline elementleri dikey hizalamak için */
+}
+
+.social-icons img {
+  width: 30px;
+  /* Sosyal medya iconları boyutu */
+  margin: 0 5px;
+  /* Boşluk ayarı */
+}
+
+.top-bar {
+  position: fixed;
+  top: 50px;
+  /* Ekranın en üstünden 50 piksel aşağıda */
+  left: 50%;
+  /* Ekranın ortasına hizala */
+  transform: translateX(-50%);
+  /* Yatayda ortala */
+  width: 500px;
+  /* Genişlik ayarı */
+  min-width: 500px;
+  /* En az 500 piksel genişlik */
+  max-width: 100%;
+  /* Ekran boyutuna göre genişlik */
+  height: 50px;
+  /* Yükseklik ayarı */
+  background-color: rgba(255, 255, 255, 0.8);
+  /* Transparan beyaz arkaplan */
+  border-radius: 10px;
+  /* Kenar yumuşatma */
+  z-index: 1;
+  padding: 15px;
+  text-align: center;
+  line-height: 50px;
+  /* Metin dikey hizalaması */
+}
+
+.top-bar-text {
+  font-weight: bold;
+  /* Kalın metin */
+}
