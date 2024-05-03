@@ -13,3 +13,9 @@ Demoya gif veya bağlantı ekleyin
 ## Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/ahmetaraci/trillerdom/main/proje_thumbnail.png?token=GHSAT0AAAAAACR2RCLW2AMYU26MFF4CIDVQZRVKHJQ)
+
+## Keywords
+
+- iller.json
+- domhesaplama
+- dilimortameridyeni
