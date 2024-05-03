@@ -1,3 +1,24 @@
-# domhesaplama
 
-Türkiye'deki şehirlerin tamamının 3 ve 6 dereceye göre dilim orta meridyeni bilgilerini veren uygulamadır.
+# Türkiye İller Dilim Orta Meridyenleri (DOM)
+
+Bu proje Türkiye'deki illerin sınırlarının isabet ettiği dilim orta meridyeni bilgisini vermektedir.
+
+Leaftlet ile geliştirilmiştir.
+
+https://leafletjs.com/
+
+
+
+
+
+
+## Demo
+
+Demoya gif veya bağlantı ekleyin
+
+  
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/ahmetaraci/domhesaplama/main/proje_thumbnail.png?token=GHSAT0AAAAAACR2RCLWTSLGBQPMUBG2Y42CZRVJSVA)
+
+  
