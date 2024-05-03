@@ -329,7 +329,7 @@
       "type": "Feature",
       "properties": {
         "dom_3_derece": "42",
-        "dom_6_derece": "45",
+        "dom_6_derece": "39,45",
         "name": "Sirnak"
       },
       "id": 3
@@ -596,7 +596,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "45",
+        "dom_3_derece": "42,45",
         "dom_6_derece": "45",
         "name": "Igdir"
       },
@@ -937,7 +937,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "42",
+        "dom_3_derece": "42,45",
         "dom_6_derece": "45",
         "name": "Van"
       },
@@ -3069,7 +3069,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "39",
+        "dom_3_derece": "36,39",
         "dom_6_derece": "39",
         "name": "Ordu"
       },
@@ -3259,7 +3259,7 @@
       "type": "Feature",
       "properties": {
         "dom_3_derece": "36",
-        "dom_6_derece": "39",
+        "dom_6_derece": "33,39",
         "name": "Samsun"
       },
       "id": 23
@@ -3416,7 +3416,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "36",
+        "dom_3_derece": "33,36",
         "dom_6_derece": "33",
         "name": "Sinop"
       },
@@ -3595,7 +3595,7 @@
       "properties": {
         "dom_3_derece": "33",
         "dom_6_derece": "33",
-        "name": "Bartın"
+        "name": "Bartin"
       },
       "id": 26
     },
@@ -3713,7 +3713,7 @@
       "properties": {
         "dom_3_derece": "30,33",
         "dom_6_derece": "33",
-        "name": "Düzce"
+        "name": "Duzce"
       },
       "id": 28
     },
@@ -7203,7 +7203,7 @@
       "properties": {
         "dom_3_derece": "33",
         "dom_6_derece": "33",
-        "name": "Karabük"
+        "name": "Karabuk"
       },
       "id": 45
     },
@@ -7496,7 +7496,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "36",
+        "dom_3_derece": "36,39",
         "dom_6_derece": "39",
         "name": "Sivas"
       },
@@ -8215,7 +8215,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "36",
+        "dom_3_derece": "33,36",
         "dom_6_derece": "33",
         "name": "Nigde"
       },
@@ -8940,7 +8940,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "36",
+        "dom_3_derece": "33,36",
         "dom_6_derece": "33",
         "name": "Nevsehir"
       },
@@ -9051,8 +9051,8 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "36",
-        "dom_6_derece": "33",
+        "dom_3_derece": "33,36",
+        "dom_6_derece": "33,39",
         "name": "Yozgat"
       },
       "id": 61
@@ -10621,7 +10621,7 @@
       "type": "Feature",
       "properties": {
         "dom_3_derece": "36",
-        "dom_6_derece": "39",
+        "dom_6_derece": "33,39",
         "name": "Osmaniye"
       },
       "id": 75
@@ -11028,7 +11028,7 @@
       "type": "Feature",
       "properties": {
         "dom_3_derece": "42",
-        "dom_6_derece": "39",
+        "dom_6_derece": "39,45",
         "name": "Siirt"
       },
       "id": 79
@@ -11089,7 +11089,7 @@
       },
       "type": "Feature",
       "properties": {
-        "dom_3_derece": "39",
+        "dom_3_derece": "39,42",
         "dom_6_derece": "39",
         "name": "Bayburt"
       },
