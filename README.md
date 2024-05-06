@@ -12,7 +12,7 @@ Demoya gif veya bağlantı ekleyin
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/ahmetaraci/trillerdom/main/proje_thumbnail.png?token=GHSAT0AAAAAACR2RCLW2AMYU26MFF4CIDVQZRVKHJQ)
+![Uygulama Ekran Görüntüsü](/proje_thumbnail.png)
 
 ## Keywords
 
