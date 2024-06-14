@@ -6,7 +6,7 @@ Leaftlet ile geliştirilmiştir.
 
 https://leafletjs.com/
 
-## Demo
+## Projeye Gitmek için Tıklayınız
 
 https://ahmetaraci.github.io/trillerdom/
 
