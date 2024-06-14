@@ -8,7 +8,7 @@ https://leafletjs.com/
 
 ## Demo
 
-Demoya gif veya bağlantı ekleyin
+https://ahmetaraci.github.io/trillerdom/
 
 ## Ekran Görüntüleri
 
