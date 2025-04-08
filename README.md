@@ -8,7 +8,7 @@ https://leafletjs.com/
 
 ## Projeye Gitmek için Tıklayınız
 
-https://ahmetaraci.github.io/trillerdom/
+https://ahmetaraci.com/trillerdom/
 
 ## Ekran Görüntüleri
 
